@@ -1,0 +1,26 @@
+|      |      |
+|p1 p2 | p3 p4|
+|      |      |
+
+COMMANDS:
+
+player 1 
+up	-> q
+down	-> a	
+
+player 2 
+up	-> t
+down	-> g	
+
+player 3 
+up	-> p
+down	-> l	
+
+player 4
+up	-> arrow up
+down	-> arrow down	
+
+
+NOTE:
+
+When the ball gets too fast you cant block it anymore !!
